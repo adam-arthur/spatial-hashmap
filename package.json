@@ -1,6 +1,6 @@
 {
   "name": "@prolifica/spatial-hashmap",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Spatial Hashmap data structure for use in broad phase collision detection",
   "keywords": [
     "collision",
@@ -16,6 +16,10 @@
     "name": "Adam Arthur",
     "email": "adam.arthur.wilson@gmail.com",
     "url": "https://adamarthur.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adam-arthur/spatial-hashmap.git"
   },
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
