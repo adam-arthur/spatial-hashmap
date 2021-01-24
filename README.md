@@ -7,12 +7,12 @@ For collision detection, it can be significantly faster to have both a coarse, "
 
 
 ## Install
-`npm install @prolifica/spatial-hashmap`
+`npm install @adamarthur/spatial-hashmap`
 
 ## Usage
 
 ```javascript
-import SpatialHashmap from '@prolifica/spatial-hashmap';
+import SpatialHashmap from '@adamarthur/spatial-hashmap';
 
 const map = new SpatialHashmap({ 
                 width: 100, 
