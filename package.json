@@ -1,6 +1,6 @@
 {
   "name": "@adamarthur/spatial-hashmap",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Spatial Hashmap data structure for use in broad phase collision detection",
   "keywords": [
     "collision",
