@@ -1,6 +1,6 @@
 {
   "name": "@prolifica/spatial-hashmap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Spatial Hashmap data structure for use in broad phase collision detection",
   "keywords": [
     "collision",
